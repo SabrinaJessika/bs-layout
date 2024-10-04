@@ -4,4 +4,21 @@ body{
 	padding: 0;
 }
 /*common end*/
-.container{
+.image {
+    padding: 50px 0;
+}
+.container {
+    overflow: hidden;
+    margin: 0 auto;
+   
+}
+.img_item {
+    margin: 5px 0;
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+    padding: 0 3px;
+}
+.img_item img {
+    width: 100%;
+}
